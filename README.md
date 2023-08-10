@@ -1,1 +1,1 @@
-# basic-html-code-coursera
+# Coursera React Native week 4 assignment
